@@ -1,7 +1,6 @@
 package com.lyzs;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Quiz6 {
